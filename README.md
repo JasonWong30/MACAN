@@ -1,2 +1,2 @@
-# MCAFusion
-Multimodal Medical Image Fusion based on Multi-channel Aggregated Network
+# MACAN
+Multiple Attention Channels Aggregated Network for Multimodal Medical Image Fusion
