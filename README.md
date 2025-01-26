@@ -63,25 +63,20 @@ CUDA_VISIBLE_DEVICES=0 python Test2.py
 
 ### Illustration of our MACAN model.
 
-<img src="image//Workflow1.png" width="60%" align=center />
+<img src="Fig//Framework.jpg" width="60%" align=center />
 
-### Detail of MACAN.
-
-<img src="image//Workflow2.png" width="60%" align=center />
-
-<img src="image//Algorithm1.png" width="60%" align=center />
 
 ### Qualitative fusion results.
 
-<img src="image//IVF1.png" width="100%" align=center />
+<img src="Fig//SPECT-MRI.jpg" width="80%" align=center />
 
 
 ### Quantitative fusion results.
 
 Medical Image Fusion
 
-<img src="image//Quantitative_MIF.png" width="60%" align=center />
+<img src="Fig//SPECT-MRI-Metric.png" width="80%" align=center />
 
 
 ## 📖 Related Work
-- Zixiang Zhao, Lilun Deng, Haowen Bai, Yukun Cui, Zhipeng Zhang, Yulun Zhang, Haotong Qin, Dongdong Chen, Jiangshe Zhang, Peng Wang, Luc Van Gool. *title.* **ICML 2024**. https://arxiv.org/abs/2402.02235.
+- Jingxue Huang, Xiaosong Li, Haishu Ta, Xiaoqi Cheng, *Multimodal Medical Image Fusion Based on Multichannel Aggregated Network.* **ICIG 2023**. https://link.springer.com/chapter/10.1007/978-3-031-46317-4_2.
