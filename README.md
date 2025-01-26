@@ -7,7 +7,7 @@ Codes for ***Multiple Attention Channels Aggregated Network for Multimodal Medic
 
 [Jingxue Huang](https://github.com/JasonWong30), [Tianshu Tan](), [Xiaosong Li](https://github.com/lxs6), [Tao Ye](https://jdxy.cumtb.edu.cn/info/1011/3212.htm), [Yanxiong Wu](https://www.fosu.edu.cn/spoe/yanjiu/ssds/2625.html)
 
--[*[Paper]*](hhttps://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17607)   
+-[*[Paper]*](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17607)   
 
 ## Update
 - [2025-1] README.md is updated.
@@ -56,7 +56,7 @@ Download the Multi-modal Medical Image Fusion (MMIF) and place the paired images
 If you want to infer with our MCAFusion and obtain the fusion results in our paper, please run
 
 ```
-python test.py
+CUDA_VISIBLE_DEVICES=0 python Test2.py
 ```
 
 ## 🙌 MACAN
@@ -84,4 +84,4 @@ Medical Image Fusion
 
 
 ## 📖 Related Work
-- Zixiang Zhao, Lilun Deng, Haowen Bai, Yukun Cui, Zhipeng Zhang, Yulun Zhang, Haotong Qin, Dongdong Chen, Jiangshe Zhang, Peng Wang, Luc Van Gool. *Image Fusion via Vision-Language Model.* **ICML 2024**. https://arxiv.org/abs/2402.02235.
+- Zixiang Zhao, Lilun Deng, Haowen Bai, Yukun Cui, Zhipeng Zhang, Yulun Zhang, Haotong Qin, Dongdong Chen, Jiangshe Zhang, Peng Wang, Luc Van Gool. *title.* **ICML 2024**. https://arxiv.org/abs/2402.02235.
