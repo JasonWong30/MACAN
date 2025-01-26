@@ -36,7 +36,7 @@ For the MRI-PET fusion type, MACAN achieves average improvements of 24.48%, 27.6
 ### Conclusion
 The proposed multiple attention channels aggregated network (MACAN) can effectively retain the complementary information from source images. The evaluation of MACAN through medical image fusion and segmentation experiments on public datasets demonstrated its superiority over the state-of-the-art methods, both in terms of visual quality and objective metrics. 
 
-### 🌐 Usage
+## 🌐 Usage
 
 ### ⚙ 1. Virtual Environment
 
